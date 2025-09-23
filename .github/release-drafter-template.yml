@@ -1,4 +1,4 @@
-name-template: 'Spring Boot Template: $RESOLVED_VERSION' # should be overridden on a project level basis
+name-template: 'Bank Service: $RESOLVED_VERSION' # should be overridden on a project level basis
 tag-template: '$RESOLVED_VERSION'
 categories:
   - title: 'Breaking Changes 🔥'
